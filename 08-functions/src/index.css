@@ -1,0 +1,29 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  background-color: black;
+  color: white;
+}
+h1{
+  text-align: center;
+  margin-top: 20px;   
+}
+button{
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 5px;
+}
+input{
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 5px;
+} 
+.box{
+  width: 200px;
+  height: 200px;
+  background-color: aquamarine;
+}
